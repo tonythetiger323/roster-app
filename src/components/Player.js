@@ -1,7 +1,8 @@
 import React from "react";
 
-export default function Player(){
+export default function Player(props){
+    console.log("props", props);
     return(
-        <p>Hi</p>
+        <p>{props.name} wears jersey number {props.jersey}</p>
     );
 };
