@@ -2,8 +2,8 @@
 const rizzoHobbies = ["dancing", "making YouTube videos", "fishing"];
 const báezHobbies = ["travel", "eating burgers", "skiiing"];
 const contrerasHobbies = ["hunting wabbits", "Sunshine Kids volunteer", "grilling"];
-const kbHobbies = []
-const happHobbies = []
+const kbHobbies = [];
+const happHobbies = [];
 
 export const playerData = [
   { id: 1, firstName: "Anthony", lastName: "Rizzo", hobbies: rizzoHobbies, jerseyNumber: 44 },
