@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Welcome />
-      <PlayerList players={playerData}
+      <PlayerList players={playerData}/>
     </div>
   );
 }
